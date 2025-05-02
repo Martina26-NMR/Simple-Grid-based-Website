@@ -9,7 +9,7 @@ A responsive web layout created using **HTML** and **CSS Grid**, focusing on mod
 - CSS Grid for layout structure
 - Media Queries for responsive design
 - Clean, semantic HTML
-- BEM methodology (if used)
+- BEM methodology 
 
 ## 🎯 Purpose
 
